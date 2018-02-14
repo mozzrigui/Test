@@ -26,7 +26,7 @@
 				<configuration>
 					<source>1.6</source>
 					<target>1.6</target>
-					<outputDirectory>${JENKINS_HOME}/target</outputDirectory>
+					<outputDirectory>${ITEM_ROOTDIR} /target</outputDirectory>
 				</configuration>
 			</plugin>
 		</plugins>
