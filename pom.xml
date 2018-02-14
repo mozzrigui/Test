@@ -150,11 +150,11 @@
 	</dependencies>
 
 	<build>
+	<defaultGoal>Moez</defaultGoal>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<defaultGoal>Moez</defaultGoal>
 			</plugin>
 		</plugins>
 	</build>
