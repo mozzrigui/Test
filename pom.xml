@@ -15,7 +15,10 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+<build>
+    <defaultGoal>install</defaultGoal>
 
+</build>
 	<build>
 		<plugins>
 			<plugin>
